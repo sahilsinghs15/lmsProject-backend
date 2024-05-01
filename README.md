@@ -1,13 +1,15 @@
 # lmsProject-backend
 
-``Concepts Used in my Project ---
+``Concepts Used in my Project ---``
 
-{Database - MONGO DB - Mongoose - Models - Course , Payment , User}
+``{Database - MONGO DB - Mongoose - Models - Course , Payment , User}
 {Middlewares - Morgan , Error Middleware , Cookie Parser , Multer , Auth Middleware , Async Middleware}
 {Controller - Course , miscellaneous , Payment , user}
 {Routes - course , miscellaneous , payment , user }
 {Utils - App Error , SendEmail}``
 
+
+``Refer the Package.json file and Download the dependencies``
 
 To access run the code.
 
